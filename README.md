@@ -1,2 +1,2 @@
 # Browsr
-Assessed Courseworkd A for Industrial Programming class at university.
+Assessed Coursework A for Industrial Programming class at university.
